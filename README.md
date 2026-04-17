@@ -121,13 +121,6 @@ The forecasting model is built using LSTM layers:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is for **educational and research purposes only**.
-It does not constitute financial advice or guarantee predictive accuracy in real-world trading.
-
----
-
 ## 📌 Future Improvements
 
 * Add sentiment analysis from news/Twitter
@@ -135,10 +128,4 @@ It does not constitute financial advice or guarantee predictive accuracy in real
 * Deploy as a web dashboard (Streamlit/Dash)
 * Add portfolio optimization module
 
----
-
-If you want, I can next:
-
-* make this look **more “premium GitHub” with badges + banner**
-* shorten it into a **1-scroll recruiter version**
-* or add a **cool project description for LinkedIn post**
+This project is for **educational and research purposes only**.
